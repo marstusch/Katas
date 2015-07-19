@@ -19,6 +19,4 @@ public class CaffeineScript {
 
       return MOCHA_MISSING;
    }
-
-
 }
