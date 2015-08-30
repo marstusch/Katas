@@ -1,0 +1,29 @@
+local variable
+
+extract method
+
+rename
+
+quick fix
+
+klassen suchen
+
+ressource suchen
+
+organize imports
+
+auskommentieren/einkommentieren
+
+format
+
+add import
+
+change method signature
+
+inline variable
+
+zeile löschen
+
+zeile verschieben
+
+code duplizieren
