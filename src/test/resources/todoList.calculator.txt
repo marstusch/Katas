@@ -1,0 +1,18 @@
+ORDER				INPUT				OUTPUT
+1					any char			0
+					
+obsolete			space				0
+					
+obsolete			2					0
+					
+obsolete			2+					0
+					
+obsolete			+					0
+					
+2					2+2					4
+					
+3					40-20				20
+					
+4					2*30				60
+					
+5					6/3					2
