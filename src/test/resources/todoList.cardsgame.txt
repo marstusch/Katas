@@ -1,0 +1,31 @@
+ORDER		INPUT				OUTPUT
+1			P1 [2]				Player2 wins 1 to 0
+			P2 [3]
+			
+2			P1 [5]				Player1 wins 1 to 0
+			P2 [4]
+			
+2.1			P1 [3, 9, 2]		Player1 wins 2 to 1
+			P2 [2, 8, 3]
+			
+2.2			P1 [6, 9]			Tie
+			P1 [7, 8]
+			
+3			P1 [A]				Player1 wins 1 to 0
+			P2 [K]
+			
+4			P1 [K]				Player1 wins 1 to 0
+			P2 [Q]
+			
+5			P1 [Q]				Player1 wins 1 to 0
+			P2 [J]
+			
+6			P1 [J]				Player1 wins 1 to 0
+			P2 [T]
+			
+7			P1 [T]				Player1 wins 1 to 0
+			P2 [9]
+			
+obsolete	P1 [A, 7, 8]		Player1 wins 2 to 1
+by previous	P1 [K, 5, 9]
+tests
