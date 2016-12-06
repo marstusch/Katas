@@ -1,0 +1,3 @@
+# Katas
+
+Repo für Codekatas, die ich bei Zeiten mache...
